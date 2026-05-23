@@ -43,6 +43,5 @@ Arduino receives the brightness value and controls the LED using PWM.
 ## Authors
 
 - M Naga Hema
-- Mangali Adarash
-- Shaik Farazana
-- Kurva Umesh
+
+  
